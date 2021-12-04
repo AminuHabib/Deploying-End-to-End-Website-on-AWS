@@ -10,8 +10,11 @@ This is an aws project to deploy end to end website on aws.
 ## For installing python and related frameworks
 
 ```sudo apt-get install python3```
+
 ```sudo apt-get install python3-flask```
+
 ```sudo apt-get install python3-pymysql```
+
 ```sudo apt-get install python3-boto3```
 
 ## For running application
