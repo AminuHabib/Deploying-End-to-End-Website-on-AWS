@@ -1,7 +1,7 @@
 ## Deploying-End-to-End-Website-on-AWS
 This is an aws project to deploy end to end website on aws.
 
-![alt text] (https://github.com/AminuHabib/Deploying-End-to-End-Website-on-AWS/blob/main/image/architecture.jpg)
+![alt text] (https://github.com/AminuHabib/Deploying-End-to-End-Website-on-AWS/blob/main/image/architecture.jpg?raw=true)
 
 ## To update the library
 ```sudo apt-get update```
